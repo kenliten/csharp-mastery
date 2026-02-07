@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/bin/Debug/net10.0/StudentGPACalculator
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/bin/Debug/net10.0/StudentGPACalculator.deps.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/bin/Debug/net10.0/StudentGPACalculator.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/bin/Debug/net10.0/StudentGPACalculator.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/bin/Debug/net10.0/StudentGPACalculator.pdb
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/refint/StudentGPACalculator.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.pdb
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/StudentGPACalculator.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/Debug/net10.0/ref/StudentGPACalculator.dll
