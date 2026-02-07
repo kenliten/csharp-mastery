@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/bin/Debug/net10.0/StudentGrading
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/bin/Debug/net10.0/StudentGrading.deps.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/bin/Debug/net10.0/StudentGrading.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/bin/Debug/net10.0/StudentGrading.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/bin/Debug/net10.0/StudentGrading.pdb
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/refint/StudentGrading.dll
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.pdb
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/StudentGrading.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/obj/Debug/net10.0/ref/StudentGrading.dll
