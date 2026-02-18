@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/bin/Debug/net10.0/call-methods
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/bin/Debug/net10.0/call-methods.deps.json
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/bin/Debug/net10.0/call-methods.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/bin/Debug/net10.0/call-methods.dll
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/bin/Debug/net10.0/call-methods.pdb
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.dll
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/refint/call-methods.dll
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.pdb
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/call-methods.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/Debug/net10.0/ref/call-methods.dll
