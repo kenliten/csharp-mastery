@@ -1,1 +1,7 @@
 bin
+.nx/installation
+.nx/cache
+.nx/workspace-data
+# .NET
+**/bin/
+/artifacts/
