@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/bin/Debug/net10.0/decision-logic
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/bin/Debug/net10.0/decision-logic.deps.json
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/bin/Debug/net10.0/decision-logic.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/bin/Debug/net10.0/decision-logic.dll
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/bin/Debug/net10.0/decision-logic.pdb
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.dll
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/refint/decision-logic.dll
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.pdb
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/decision-logic.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/Debug/net10.0/ref/decision-logic.dll

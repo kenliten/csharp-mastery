@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kenliten/Projects/csharp-mastery/apps/call-methods/call-methods.csproj": {}
+    "/home/kenliten/Projects/csharp-mastery/apps/decision-logic/decision-logic.csproj": {}
   },
   "projects": {
-    "/home/kenliten/Projects/csharp-mastery/apps/call-methods/call-methods.csproj": {
+    "/home/kenliten/Projects/csharp-mastery/apps/decision-logic/decision-logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/call-methods/call-methods.csproj",
-        "projectName": "call-methods",
-        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/call-methods/call-methods.csproj",
+        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/decision-logic/decision-logic.csproj",
+        "projectName": "decision-logic",
+        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/decision-logic/decision-logic.csproj",
         "packagesPath": "/home/kenliten/.nuget/packages/",
-        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/call-methods/obj/",
+        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/decision-logic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kenliten/.nuget/NuGet/NuGet.Config"
