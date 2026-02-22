@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj": {}
+    "/home/kenliten/Projects/csharp-mastery/apps/test-project/test-project.csproj": {}
   },
   "projects": {
-    "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj": {
+    "/home/kenliten/Projects/csharp-mastery/apps/test-project/test-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj",
-        "projectName": "StudentGrading",
-        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj",
+        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/test-project/test-project.csproj",
+        "projectName": "test-project",
+        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/test-project/test-project.csproj",
         "packagesPath": "/home/kenliten/.nuget/packages/",
-        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/obj/",
+        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/test-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kenliten/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj": {}
+    "/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/csharp-arrays.csproj": {}
   },
   "projects": {
-    "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj": {
+    "/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/csharp-arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj",
-        "projectName": "StudentGrading",
-        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj",
+        "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/csharp-arrays.csproj",
+        "projectName": "csharp-arrays",
+        "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/csharp-arrays.csproj",
         "packagesPath": "/home/kenliten/.nuget/packages/",
-        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/obj/",
+        "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kenliten/.nuget/NuGet/NuGet.Config"

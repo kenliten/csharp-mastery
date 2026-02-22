@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCTNivzxqgs=",
+  "dgSpecHash": "byDCM8mIAH4=",
   "success": true,
-  "projectFilePath": "/home/kenliten/Projects/csharp-mastery/Projects/StudentGrading/StudentGrading.csproj",
+  "projectFilePath": "/home/kenliten/Projects/csharp-mastery/apps/student-grading/StudentGrading.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

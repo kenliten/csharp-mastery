@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/bin/Debug/net10.0/readable-code
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/bin/Debug/net10.0/readable-code.deps.json
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/bin/Debug/net10.0/readable-code.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/bin/Debug/net10.0/readable-code.dll
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/bin/Debug/net10.0/readable-code.pdb
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.dll
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/refint/readable-code.dll
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.pdb
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/readable-code.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/apps/readable-code/obj/Debug/net10.0/ref/readable-code.dll

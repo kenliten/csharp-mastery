@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vFzUiWmy2tE=",
+  "dgSpecHash": "VNV2msvtHJg=",
   "success": true,
-  "projectFilePath": "/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/StudentGPACalculator.csproj",
+  "projectFilePath": "/home/kenliten/Projects/csharp-mastery/apps/student-gpa-calculator/StudentGPACalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

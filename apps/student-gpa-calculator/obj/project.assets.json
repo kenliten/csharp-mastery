@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/StudentGPACalculator.csproj",
+      "projectUniqueName": "/home/kenliten/Projects/csharp-mastery/apps/student-gpa-calculator/StudentGPACalculator.csproj",
       "projectName": "StudentGPACalculator",
-      "projectPath": "/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/StudentGPACalculator.csproj",
+      "projectPath": "/home/kenliten/Projects/csharp-mastery/apps/student-gpa-calculator/StudentGPACalculator.csproj",
       "packagesPath": "/home/kenliten/.nuget/packages/",
-      "outputPath": "/home/kenliten/Projects/csharp-mastery/Projects/StudentGPACalculator/obj/",
+      "outputPath": "/home/kenliten/Projects/csharp-mastery/apps/student-gpa-calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kenliten/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

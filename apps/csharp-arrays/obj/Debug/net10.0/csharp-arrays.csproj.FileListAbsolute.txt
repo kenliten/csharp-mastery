@@ -1,0 +1,15 @@
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.AssemblyInfoInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.AssemblyInfo.cs
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.csproj.CoreCompileInputs.cache
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.sourcelink.json
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/bin/Debug/net10.0/csharp-arrays
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/bin/Debug/net10.0/csharp-arrays.deps.json
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/bin/Debug/net10.0/csharp-arrays.runtimeconfig.json
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/bin/Debug/net10.0/csharp-arrays.dll
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/bin/Debug/net10.0/csharp-arrays.pdb
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.dll
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/refint/csharp-arrays.dll
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.pdb
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/csharp-arrays.genruntimeconfig.cache
+/home/kenliten/Projects/csharp-mastery/apps/csharp-arrays/obj/Debug/net10.0/ref/csharp-arrays.dll
